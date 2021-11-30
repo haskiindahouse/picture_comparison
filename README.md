@@ -1,5 +1,6 @@
 # picture_comparison
 ## How to use
+Firstly, clone the repo<br>
 You can use cmake as you wish(ccmake, cmake gui etc) or just run `cmake`<br>
 After this you can just:`clang main.cpp`<br>
 ## IMPORTANT
